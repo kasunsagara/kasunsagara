@@ -80,10 +80,6 @@
   </a>
 </p>
 <br>
-<p align="center">
-  <img src="https://github.com/kasunsagara/kasunsagara/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-<br>
 
 <h1 align="center">🌍 Connect with Me</h1>
 <p align="center">
@@ -99,6 +95,10 @@
   <a href="https://auth.geeksforgeeks.org/user/kasunsar5si" target="blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-32A852?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="kasun sagara GeeksforGeeks" />
   </a>
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/kasunsagara/kasunsagara/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 <br>
 
