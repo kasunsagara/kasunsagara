@@ -40,23 +40,6 @@
 </p>
 <br>
 
-<h1 align="center">🌍 Connect with Me</h1>
-<p align="center">
-  <a href="https://linkedin.com/in/kasun sagara" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kasun sagara LinkedIn" />
-  </a>
-  <a href="https://fb.com/kasun sagara" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="kasun sagara Facebook" />
-  </a>
-  <a href="https://www.hackerrank.com/kasun sagara" target="blank">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="kasun sagara Hackerrank" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/kasunsar5si" target="blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-32A852?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="kasun sagara GeeksforGeeks" />
-  </a>
-</p>
-<br>
-
 <h1 align="center">🛠️ Languages and Tools</h1>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -99,6 +82,23 @@
 <br>
 <p align="center">
   <img src="https://github.com/kasunsagara/kasunsagara/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+<br>
+
+<h1 align="center">🌍 Connect with Me</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/kasun sagara" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kasun sagara LinkedIn" />
+  </a>
+  <a href="https://fb.com/kasun sagara" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="kasun sagara Facebook" />
+  </a>
+  <a href="https://www.hackerrank.com/kasun sagara" target="blank">
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="kasun sagara Hackerrank" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/kasunsar5si" target="blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-32A852?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="kasun sagara GeeksforGeeks" />
+  </a>
 </p>
 <br>
 
