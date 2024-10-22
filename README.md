@@ -12,8 +12,8 @@
 
 <h1 align="center">✨ About Me</h1>
 <h3 align="center">I'm Kasun Sagara</h3>
-<h3 align="center"></h3>
-<p align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka
+<h3 align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</h3>
+<p align="center">
   🔭 I’m currently working on <strong>Test</strong><br />
   🌱 I’m currently learning <strong>Java</strong><br />
   💬 Ask me about <strong>Web Development</strong><br />
