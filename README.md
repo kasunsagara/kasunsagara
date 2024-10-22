@@ -11,8 +11,8 @@
 <br>
 
 <h1 align="center">✨ About Me</h1>
-<h2 align="center">I'm Kasun Sagara</h2>
-<h3 align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</h3>
+<h3 align="center">I'm Kasun Sagara</h3>
+<h4 align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</h4>
 <p align="center">
   🔭 I’m currently working on <strong>Test</strong><br />
   🌱 I’m currently learning <strong>Java</strong><br />
