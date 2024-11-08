@@ -68,9 +68,6 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express-303030?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Express-800080?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
