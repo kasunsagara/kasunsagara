@@ -34,6 +34,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kasunsagara&show_icons=true&locale=en&theme=tokyonight" alt="Kasun's GitHub Stats" />
 </p>
+<br>
 
 <h1 align="center">🛠️ Languages and Tools</h1>
 <p align="center">
