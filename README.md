@@ -28,15 +28,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=kasunsagara&theme=dracula&no-frame=true&row=1&column=7" alt="kasunsagara trophies" />
   </a>
 </p>
-<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunsagara&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kasunsagara&show_icons=true&locale=en&theme=tokyonight" alt="Kasun's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasunsagara&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <br>
 
