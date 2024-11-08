@@ -34,10 +34,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kasunsagara&show_icons=true&locale=en&theme=tokyonight" alt="Kasun's GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasunsagara&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<br>
 
 <h1 align="center">🛠️ Languages and Tools</h1>
 <p align="center">
