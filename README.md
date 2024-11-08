@@ -34,13 +34,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kasunsagara&show_icons=true&locale=en&theme=tokyonight" alt="Kasun's GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasunsagara&theme=tokyonight" alt="GitHub Streak" />
+</p>
 <br>
 
 <h1 align="center">🛠️ Languages and Tools</h1>
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </a> 
@@ -69,11 +69,11 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  </a>
+   <img src="https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="React" />
+</a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+   <img src="https://img.shields.io/badge/Express-303030?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+</a>
 </p>
 <br>
 
