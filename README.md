@@ -32,7 +32,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunsagara&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasunsagara&show_icons=true&locale=en&theme=tokyonight" alt="Kasun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kasunsagara&show_icons=true&locale=en&theme=tokyonight" alt="WANIGASINGHA B W V K S's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasunsagara&theme=tokyonight" alt="kasunsagara" />
 </p>
 <br>
 
