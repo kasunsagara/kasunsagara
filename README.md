@@ -15,7 +15,7 @@
 <p align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</p>
 <p align="center">
   🔭 I’m currently working on <strong>Full Stack Web Development and UI/UX Design</strong><br />
-  🌱 I’m learning <strong>MERN Stack (MongoDB, Express.js, React, Node.js) and improving my UI/UX skills</strong><br />
+  🌱 I’m learning <strong>MERN Stack and improving my UI/UX skills</strong><br />
   💬 Ask me about <strong>Web Development and UI/UX Design</strong><br />
   📫 How to reach me: <strong>kasunsagara689@gmail.com</strong><br />
   ⚡ Fun fact: You can call me <strong>Kasun</strong>
