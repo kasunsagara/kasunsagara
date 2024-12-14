@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 Welcome to My Profile</h1>
+<h1 align="center">Hi there! 👋 Welcome to My Profile!</h1>
 <h3 align="center">Explore my projects and contributions below</h3>
 <br>
 <p align="center">
@@ -105,5 +105,5 @@ target="blank">
   <img src="https://github.com/kasunsagara/kasunsagara/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 <br>
-<h1 align="center">Thank you! 🙌 for Visiting My Profile</h1>
+<h1 align="center">Thank you! 🙌 for Visiting My Profile!</h1>
 <h3 align="center">I appreciate your time and interest in my work</h3>                                                                                                                           
