@@ -17,7 +17,7 @@
   🔭 I’m currently working on <strong>Full Stack Web Development and UI/UX Design</strong><br />
   🌱 I’m learning <strong>MERN Stack and improving my UI/UX skills</strong><br />
   💬 Ask me about <strong>Web Development and UI/UX Design</strong><br />
-  📫 How to reach me: <strong>kasunsagara689@gmail.com</strong><br />
+  📫 How to reach me: <strong>kasunsagara689@gmail.com</strong><br /> 
   📞 How to chat me: <strong>+94771670585</strong><br />
 </p>
 <p align="center">Let’s build something amazing together!</p>
