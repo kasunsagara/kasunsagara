@@ -18,6 +18,8 @@
   🌱 I’m learning <strong>MERN Stack and improving my UI/UX skills</strong><br />
   💬 Ask me about <strong>Web Development and UI/UX Design</strong><br />
   📫 How to reach me: <strong>kasunsagara689@gmail.com</strong><br />
+  📞 How to chat me: 
+<strong>+94771670585</strong><br />
   ⚡ Fun fact: You can call me <strong>Kasun</strong>
 </p>
 <p align="center">Let’s build something amazing together!</p>
