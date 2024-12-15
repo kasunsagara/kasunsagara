@@ -20,7 +20,7 @@
   📫 How to reach me: <strong>kasunsagara689@gmail.com</strong><br />
   📞 How to chat me:
 <strong>+94771670585</strong><br />
-  ⚡ Fun fact: You can call me <strong>Kasun</strong>
+  ⚡ Friendly reminder: You can call me <strong>Kasun</strong>
 </p>
 <p align="center">Let’s build something amazing together!</p>
 <br>
