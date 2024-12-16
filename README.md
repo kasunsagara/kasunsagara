@@ -107,4 +107,4 @@ target="blank">
 </p>
 <br>
 <h1 align="center">Thank you for Visiting My Profile! 🙌</h1>
-<h3 align="center">I appreciate your time and interest in my work</h3>                                                                                                                           
+<h3 align="center">I appreciate your time and interest in my work</h3>                                                                                                                            
