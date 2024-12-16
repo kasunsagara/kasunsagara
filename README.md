@@ -14,8 +14,8 @@
 <h3 align="center">I'm Kasun Sagara</h3>
 <p align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</p>
 <p align="center">
-  🔭 I’m currently working on <strong>Full Stack Web Development and UI/UX Design</strong><br />
-  🌱 I’m learning <strong>MERN Stack and improving my UI/UX skills</strong><br />
+  🔭 I'm currently working on <strong>Full Stack Web Development and UI/UX Design</strong><br />
+  🌱 I'm learning <strong>MERN Stack and improving my UI/UX skills</strong><br />
   💬 Ask me about <strong>Web Development, MERN Stack and UI/UX Design</strong><br />
   📧 How to reach me: <strong>kasunsagara689@gmail.com</strong><br /> 
   📞 How to chat me: <strong>+94771670585</strong><br />
