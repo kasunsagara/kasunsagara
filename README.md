@@ -20,7 +20,7 @@
   📧 How to reach me: <strong>kasunsagara689@gmail.com</strong><br /> 
   📞 How to chat me: <strong>+94771670585</strong><br />
 </p>
-<p align="center">Let’s build something amazing together!</p>
+<p align="center">Let's build something amazing together</p>
 <br>
 
 <h1 align="center">📊 My Statistics</h1>
