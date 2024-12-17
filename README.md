@@ -89,17 +89,16 @@
 
 <h1 align="center">🌍 Connect with Me</h1>
 <p align="center">
-  <a href="https://github.com/kasunsagara" 
-target="blank">
+  <a href="https://github.com/kasunsagara" target="blank">
     <img src="https://img.shields.io/badge/GitHub-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="kasun sagara GitHub" />
-</a>
-  <a href="https://linkedin.com/in/kasun sagara" target="blank">
+  </a>
+  <a href="https://www.linkedin.com/in/kasun-sagara-ba47b22a9/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kasun sagara LinkedIn" />
   </a>
-  <a href="https://www.hackerrank.com/kasun sagara" target="blank">
+  <a href="https://www.hackerrank.com/profile/kasunsagara73" target="blank">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="kasun sagara Hackerrank" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/kasunsar5si" target="blank">
+  <a href="https://www.geeksforgeeks.org/user/kasunsar5si/" target="blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-32A852?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="kasun sagara GeeksforGeeks" />
   </a>
 </p>
