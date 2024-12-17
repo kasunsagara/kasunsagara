@@ -18,7 +18,7 @@
   🌱 I'm learning MERN Stack and improving my UI/UX skills<br />
   💬 Ask me about Web Development, MERN Stack and UI/UX Design<br />
   📧 How to reach me: kasunsagara689@gmail.com<br /> 
-  📞 How to chat me: +94771670585<br />
+  📞 How to chat me: 0771670585<br />
 </p>
 <p align="center">Let's build something amazing together</p>
 <br>
@@ -94,6 +94,12 @@
   </a>
   <a href="https://www.linkedin.com/in/kasun-sagara-ba47b22a9/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kasun sagara LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/kasunsagara73" target="blank">
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="kasun sagara Hackerrank" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/kasunsar5si/" target="blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-32A852?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="kasun sagara GeeksforGeeks" />
   </a>
 </p>
 <br>
