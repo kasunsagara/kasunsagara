@@ -7,7 +7,7 @@
 <br> 
 <p align="center">
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="My Photo" width="620" height="280" />     
-</p>
+</p> 
 <br>
   
 <h1 align="center">👨‍🎓 About Me</h1>  
