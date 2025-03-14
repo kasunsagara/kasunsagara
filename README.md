@@ -9,7 +9,7 @@
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="My Photo" width="620" height="280" />     
 </p>
 <br>
-
+ 
 <h1 align="center">👨‍🎓 About Me</h1>
 <p align="center">I'm Kasun Sagara</p>
 <p align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</p>
