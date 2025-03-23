@@ -10,7 +10,7 @@
 </p> 
 <br>
    
-<h1 align="center">👨‍🎓 About Me</h1>   
+<h1 align="center">👨‍🎓 About Me</h1>    
 <p align="center">I'm Kasun Sagara</p>
 <p align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</p>
 <p align="center">
