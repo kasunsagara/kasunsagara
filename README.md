@@ -23,7 +23,7 @@
 <p align="center">Let's build something amazing together</p>
 <br>
 
-<h1 align="center">📊 My Statistics</h1> 
+<h1 align="center">📊 My Statistics</h1>  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kasunsagara&theme=dracula&no-frame=true&row=1&column=7" alt="kasunsagara trophies" />
