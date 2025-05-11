@@ -17,8 +17,8 @@
   🔭 I'm currently working on Full Stack Web Development and UI/UX Design<br />  
   🌱 I'm learning MERN Stack and improving my UI/UX skills<br />
   💬 Ask me about Web Development, MERN Stack and UI/UX Design<br />
-  📧 How to reach me: kasunsagara689@gmail.com<br /> 
-  📞 How to chat me: 0771670585<br />
+  📧 You can reach me at kasunsagara689@gmail.com<br /> 
+  📞 You can contact me by phone at 0771670585<br />
 </p>
 <p align="center">Let's build something amazing together</p>
 <br>
