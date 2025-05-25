@@ -3,7 +3,7 @@
 <br>
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=kasunsagara&label=Profile%20views&color=ff69b4&style=flat" alt="kasunsagara" />                              
-</p>  
+</p>   
 <br> 
 <p align="center">       
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="My Photo" width="620" height="280" />                    
