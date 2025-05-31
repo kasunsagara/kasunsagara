@@ -90,8 +90,9 @@
     <img src="https://img.shields.io/badge/GitHub-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="kasun sagara GitHub" />
   </a>
 <a href="https://www.linkedin.com/in/kasun-sagara-ba47b22a9/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kasun sagara LinkedIn" />
 </a>
+
 
 
   <a href="https://portfolio-website-frontend-gamma.vercel.app" target="_blank">
