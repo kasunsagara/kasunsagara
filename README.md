@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=282c34" alt="React" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Express-800080?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
