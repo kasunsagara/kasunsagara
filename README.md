@@ -89,9 +89,10 @@
 <a href="https://github.com/kasunsagara" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="kasun sagara GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/kasun-sagara-ba47b22a9/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kasun sagara LinkedIn" />
+<a href="https://www.linkedin.com/in/kasun-sagara-ba47b22a9/" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" style="width:32px; height:32px; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(103%) contrast(103%);" />
 </a>
+
 <a href="https://portfolio-website-frontend-gamma.vercel.app" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-28a745?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Kasun Sagara Portfolio" />
 </a>
