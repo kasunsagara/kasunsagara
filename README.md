@@ -46,9 +46,8 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</a>
- 
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   </a>
@@ -90,9 +89,10 @@
   <a href="https://github.com/kasunsagara" target="blank">
     <img src="https://img.shields.io/badge/GitHub-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="kasun sagara GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/kasun-sagara-ba47b22a9/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kasun sagara LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/kasun-sagara-ba47b22a9/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kasun sagara LinkedIn" />
+</a>
+
   <a href="https://portfolio-website-frontend-gamma.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-28a745?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Kasun Sagara Portfolio" />
   </a>
