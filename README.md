@@ -48,11 +48,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
   </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-</a>
-
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   </a> 
@@ -62,9 +60,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/React-6f42c1?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+</a>
+
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Express-800080?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   </a>
