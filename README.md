@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kasun sagara LinkedIn" />
   </a>
 <a href="https://portfolio-website-frontend-gamma.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/My%20Portfolio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kasun Sagara Portfolio" />
+  <img src="https://img.shields.io/badge/My%20Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white" alt="Kasun Sagara Portfolio" />
 </a>
 
 
