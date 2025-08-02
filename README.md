@@ -99,7 +99,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/kasunsagara/kasunsagara/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/kasunsagara/kasunsagara/raw/output/github-contribution-grid-snake.svg?palette=github-dark" alt="snake gif" />
 </p>
 <br>
 <h1 align="center">Thank you for Visiting My Profile! 🙌</h1>
