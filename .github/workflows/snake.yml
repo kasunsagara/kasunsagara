@@ -10,7 +10,6 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-   
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -18,6 +17,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          color_snake: "#00FFFF"  # Cyan snake
+          color_dots: "#ffffff,#e0e0e0,#c0c0c0,#a0a0a0,#808080"  # Light to dark boxes
+          
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
