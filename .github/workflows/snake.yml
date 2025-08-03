@@ -2,14 +2,15 @@ name: Generate snake-gif
 
 on:
   schedule: 
-    - cron: "0 */12 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Generate contribution snake SVG
+    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+   
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -17,9 +18,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          color_snake: "#00FFFF"  # cyan snake
-          color_dots: "#4d4d4d,#3a3a3a,#2a2a2a,#1a1a1a,#0d0d0d"  # dark gray gradient
-
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
