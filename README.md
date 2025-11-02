@@ -49,7 +49,7 @@
 <br>
 
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h1 align="center">🛠️ Languages & Tools</h1>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
