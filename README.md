@@ -48,34 +48,8 @@
 </p>
 <br>
 
-<h1 align="center">🛠️ Languages and Tools</h1>
-<p align="center">
-<h2 align="center">👋 Hi, I'm <b>Kasun Sagara</b></h2>
-
-<p align="center">
-🎓 <b>Undergraduate Computer Science Student</b><br />
-🏫 <b>Trincomalee Campus</b>, Eastern University Sri Lanka
-</p>
-
-<p align="center">
-💻 <b>Full Stack Web Developer</b> | 🎨 <b>UI/UX Designer</b> | 🌐 <b>Cisco Networking Enthusiast</b>
-</p>
-
-<p align="center">
-🚀 Currently working on <b>Full Stack Web Development</b> and <b>UI/UX Design</b><br />
-💡 Learning the <b>MERN Stack</b> and <b>Cisco Networking</b> (Routing, Switching, Configuration)<br />
-💬 Ask me about <b>Web Development</b>, <b>MERN Stack</b>, <b>UI/UX Design</b>, or <b>Networking Concepts</b>
-</p>
-
-<p align="center">
-📧 <b>Email:</b> kasunsagara689@gmail.com<br />
-📞 <b>Phone:</b> 0771670585
-</p>
-
----
 
 <h3 align="center">🛠️ Languages & Tools</h3>
-
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -125,15 +99,6 @@
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking" />
   </a>
-</p>
-
----
-
-<p align="center">
-✨ Passionate about <b>Technology</b>, <b>Creativity</b>, and <b>Innovation</b><br />
-🌟 “Let’s build something amazing together!”
-</p>
-
 </p>
 <br>
 
