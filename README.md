@@ -82,18 +82,24 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </a> 
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/VS%20Code-7C3AED?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </a>
-  <a href="https://figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Figma-6B21A8?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Figma-6B21A8?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+  <a href="https://staruml.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/StarUML-8A2BE2?style=for-the-badge&logo=uml&logoColor=white" alt="StarUML" />
+  </a>
+  <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Prolog-2C2D72?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog" />
   </a>
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
