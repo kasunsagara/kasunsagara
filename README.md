@@ -11,16 +11,41 @@
 <br>     
      
 <h1 align="center">👨‍🎓 About Me</h1>         
-<p align="center">I'm Kasun Sagara</p>
-<p align="center">Undergraduate Computer Science Student in Trincomalee Campus of Eastern University Sri Lanka</p>   
 <p align="center">
-  🚀 I'm currently working on Full Stack Web Development and UI/UX Design<br />  
-  💡 I'm learning MERN Stack and improving my UI/UX skills<br />
-  💬 Ask me about Web Development, MERN Stack and UI/UX Design<br />
-  📧 You can reach me at kasunsagara689@gmail.com<br /> 
-  📞 You can contact me by phone at 0771670585<br />
+  <h2>👋 I'm <b>Kasun Sagara</b></h2>
 </p>
-<p align="center">Let's build something amazing together</p>
+
+<p align="center">
+  🎓 <b>Undergraduate Computer Science Student</b><br />
+  🏫 Trincomalee Campus, Eastern University Sri Lanka
+</p>
+
+<p align="center">
+  💻 <b>Full Stack Web Developer</b> | 🎨 <b>UI/UX Designer</b> | 🌐 <b>Cisco Networking Enthusiast</b>
+</p>
+
+<p align="center">
+  🚀 Currently working on <b>Full Stack Web Development</b> and <b>UI/UX Design</b><br />
+  💡 Learning the <b>MERN Stack</b> and <b>Cisco Networking</b> (Routing & Switching, Network Security, Configuration)<br />
+  💬 Ask me about <b>Web Development</b>, <b>MERN Stack</b>, <b>UI/UX Design</b>, or <b>Networking Concepts</b>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> kasunsagara689@gmail.com<br />
+  📞 <b>Phone:</b> 0771670585<br />
+  🌍 <b>Let's build something amazing together!</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,figma,html,css,js,git,github,cisco" />
+</p>
+
+<p align="center">
+  <b>✨ Passionate about technology, creativity, and innovation ✨</b>
+</p>
+
 <br>
 
 <h1 align="center">📊 My Statistics</h1>  
