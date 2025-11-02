@@ -11,9 +11,7 @@
 <br>     
      
 <h1 align="center">👨‍🎓 About Me</h1>         
-<p align="center">
-  <h2>👋 I'm <b>Kasun Sagara</b></h2>
-</p>
+<p align="center">I'm Kasun Sagara</p>
 
 <p align="center">
   🎓 <b>Undergraduate Computer Science Student</b><br />
@@ -34,16 +32,6 @@
   📧 <b>Email:</b> kasunsagara689@gmail.com<br />
   📞 <b>Phone:</b> 0771670585<br />
   🌍 <b>Let's build something amazing together!</b>
-</p>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,figma,html,css,js,git,github,cisco" />
-</p>
-
-<p align="center">
-  <b>✨ Passionate about technology, creativity, and innovation ✨</b>
 </p>
 
 <br>
