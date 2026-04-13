@@ -20,7 +20,7 @@
 <p align="center"> 
   🚀 Currently working on <b>Full Stack Web Development</b> and <b>UI/UX Design</b><br />
   💡 Learning the <b>MERN Stack</b>, <b>Next.js</b>, and <b>Nest.js</b> while exploring modern web architectures<br />
-  🌐 Enhancing skills in <b>Cisco Networking</b> (Routing & Switching, Network Security, Configuration)<br />
+  🌐 Enhancing skills in <b>Cisco Networking</b> (Routing, Switching, Configuration)<br />
   ⚡ Passionate about building scalable, secure, and user-friendly web applications<br />
   💬 Ask me about <b>Web Development</b>, <b>MERN Stack</b>, <b>UI/UX Design</b>, or <b>Cisco Networking Concepts</b>
 </p>
