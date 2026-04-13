@@ -16,19 +16,21 @@
   🎓 <b>Undergraduate Computer Science Student</b><br />
   🏫 Trincomalee Campus, Eastern University Sri Lanka
 </p>
-<p align="center">
-  💻 <b>Full Stack Web Developer</b> | 🎨 <b>UI/UX Designer</b> | 🌐 <b>Cisco Networking Enthusiast</b>
-</p>
-<p align="center">
+
+<p align="center"> 
   🚀 Currently working on <b>Full Stack Web Development</b> and <b>UI/UX Design</b><br />
-  💡 Learning the <b>MERN Stack</b> and <b>Cisco Networking</b> (Routing & Switching, Network Security, Configuration)<br />
-  💬 Ask me about <b>Web Development</b>, <b>MERN Stack</b>, <b>UI/UX Design</b>, or <b>Networking Concepts</b>
+  💡 Learning the <b>MERN Stack</b>, <b>Next.js</b>, and <b>Nest.js</b> while exploring modern web architectures<br />
+  🌐 Enhancing skills in <b>Cisco Networking</b> (Routing & Switching, Network Security, Configuration)<br />
+  ⚡ Passionate about building scalable, secure, and user-friendly web applications<br />
+  💬 Ask me about <b>Web Development</b>, <b>MERN Stack</b>, <b>Next.js</b>, <b>Nest.js</b>, <b>UI/UX Design</b>, or <b>Cisco Networking Concepts</b>
 </p>
+
 <p align="center">
   📧 <b>Email:</b> kasunsagara689@gmail.com<br />
   📞 <b>Phone:</b> 0771670585<br />
 </p>
-<p align="center"><b>Let's build something amazing together!</b></p>
+
+<p align="center"><b>Let's build something amazing together! 🚀</b></p>
 <br>
 
 <h1 align="center">📊 My Statistics</h1>  
