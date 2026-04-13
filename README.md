@@ -30,7 +30,7 @@
   📞 <b>Phone:</b> 0771670585<br />
 </p>
 
-<p align="center"><b>Let's build something amazing together! 🚀</b></p>
+<p align="center"><b>Let's build something amazing together!</b></p>
 <br>
 
 <h1 align="center">📊 My Statistics</h1>  
